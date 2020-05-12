@@ -1,0 +1,479 @@
+S01Q02,What is your gender?
+S01Q03,How old are you?
+S01Q04,In which region of the UK do you live?
+S01Q05,"What is your nationality? If you hold multiple nationalities, please select the one that you feel is your main one"
+S01Q06,"What would best describe the occupation of the person with the highest income in your household, including you?"
+S02Q01_01,"Fearful, including scared, anxious, insecure, weak, rejected or threatened:Which of these have you been feeling more intensely over the last two weeks? Select all that apply or skip if you feel there was no change"
+S02Q01_02,"Angry, including let down, humiliated, bitter, aggressive, frustrated, critical:Which of these have you been feeling more intensely over the last two weeks? Select all that apply or skip if you feel there was no change"
+S02Q01_03,"Disgusted, including repelled, nauseated, revolted, awful, disapproving, disappointed:Which of these have you been feeling more intensely over the last two weeks? Select all that apply or skip if you feel there was no change"
+S02Q01_04,"Sad, including hurt, depressed, guilty, despairing, vulnerable, or lonely:Which of these have you been feeling more intensely over the last two weeks? Select all that apply or skip if you feel there was no change"
+S02Q01_05,"Happy, including playful, content, interested, accepting,  peaceful, trusting or optimistic:Which of these have you been feeling more intensely over the last two weeks? Select all that apply or skip if you feel there was no change"
+S02Q01_06,"Surprised, including startled, confused, amazed:Which of these have you been feeling more intensely over the last two weeks? Select all that apply or skip if you feel there was no change"
+S02Q01_07,"Deflated, including bored, busy, stressed or tired:Which of these have you been feeling more intensely over the last two weeks? Select all that apply or skip if you feel there was no change"
+S02Q02,"State of Emergency|Business as usual:Thinking of the UK at this moment, where would you position it on the scale below?"
+S02Q03_01,"Available supply of food and household products:At this current time, please assess the following:"
+S02Q03_02,"NHS capacity:At this current time, please assess the following:"
+S02Q03_03,"NHS performance:At this current time, please assess the following:"
+S02Q03_04,"Employment security:At this current time, please assess the following:"
+S02Q03_05,"Financial situation:At this current time, please assess the following:"
+S02Q03_06,"Quality of life:At this current time, please assess the following:"
+S02Q03_07,"Overall sense of tranquility, safety and security:At this current time, please assess the following:"
+S02Q03_08,"Level of crime:At this current time, please assess the following:"
+S02Q03_09,"Level of freedoms / civil liberties:At this current time, please assess the following:"
+S02Q03_10,"Optimism level / morale of the nation:At this current time, please assess the following:"
+S02Q04,"Compared to a month ago, what holds true about your life?"
+S02Q05_01,my personal situation is likely to   :In the next month
+S02Q05_02,the situation of my friends and colleagues is likely to   :In the next month
+S02Q05_03,the situation in my community  is likely to   :In the next month
+S02Q05_04,the situation in the country is likely to   :In the next month
+S02Q06,I would rather be where I am|I would rather be somewhere else:Where would you like to be?
+S02Q07_01,"Being religious or spiritual, or practising mindfulness:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_02,"Feeling positive about government authority:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_03,"Wanting to start a family / spend time with my family:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_04,"Feeling positive towards homeschooling:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_05,"Saving money and being prudent with spending:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_07,"Feeling negative about people that are not a part of my community:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_08,"Supporting closing our borders to foreign visitors:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_09,"Being self-reliant and entrepreneurial:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_10,"Being interested in social justice and “woke” activism:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_11,"Feeling patriotic:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_12,"Feeling supportive of alternative lifestyles / sexualities:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_13,"Feeling creative and really individual:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S02Q07_14,"Doing whatever I feel like:Compared to a month ago, have your feelings and behaviours changed and to what extent?"
+S03Q01,"How much, if at all, have you seen, read or heard about the coronavirus (Covid-19) outbreak?"
+S03Q02,"Has the coronavirus outbreak caused any changes in your personal circumstances, inclusive of your health and wellbeing?"
+S03Q03,How did the coronavirus outbreak affect you and/or your family? Please describe
+S03Q04,"Given the current situation, what is that you need the most (inclusive of emotional support)? Please describe"
+S03Q05,How long do you think the lockdown due to Coronavirus disease (Covid-19) will last?
+S03Q06_01,"Coronavirus originated in Wuhan, China:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is true at this moment"
+S03Q06_02,"Coronavirus disease is deadlier for people aged over 70+:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is true at this moment"
+S03Q06_03,"There is no reliable vaccine against coronavirus at the moment:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is true at this m"
+S03Q06_04,"You should wash your hands for at least 20 seconds to combat the coronavirus:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is"
+S03Q06_05,"The death rate for the coronavirus is around 35%:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is true at this moment"
+S03Q06_06,"Vaccines against pneumonia protect against coronavirus:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is true at this moment"
+S03Q06_07,"Eating garlic prevents coronavirus disease:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is true at this moment"
+S03Q06_08,"Antibiotics are effective in preventing and treating coronavirus:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is true at this"
+S03Q06_09,"Drinking a lot of hot drinks can help in preventing and treating coronavirus:Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is"
+S03Q06_10,"Drinking colloidal silver can help in preventing and treating coronavirus  :Are the following statements about coronavirus disease (Covid-19) true or false? Please do not consult external sources or others, we just want to understand what you believe is t"
+S03Q07_01,Coronavirus cannot be transmitted in areas with hot and/or humid climates:And which of the following do you think is true?
+S03Q07_02,Cold weather and snow kill coronavirus:And which of the following do you think is true?
+S03Q07_03,Taking a hot bath prevents the coronavirus disease:And which of the following do you think is true?
+S03Q07_04,Coronavirus can be transmitted through mosquito bites:And which of the following do you think is true?
+S03Q07_05,Hand dryers are effective in killing coronavirus:And which of the following do you think is true?
+S03Q07_06,Coronavirus spreads through droplets generated when an infected person coughs or sneezes:And which of the following do you think is true?
+S03Q07_07,"Typical coronavirus disease symptoms are fever, cough and shortness of breath:And which of the following do you think is true?"
+S03Q07_08,Individuals who have contracted the Coronavirus disease can show no symptoms:And which of the following do you think is true?
+S03Q07_09,Coronavirus disease is new to humans:And which of the following do you think is true?
+S03Q07_10,Coronavirus does not exist:And which of the following do you think is true?
+S03Q08a_01,HM Government:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_02,My friends and family:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_03,NHS:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_04,Police:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_05,Army:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_06,My School / University:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_07,My Church / Religious Community / Religious Leader:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_08,My Employer:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_09,HMRC:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_10,Charities / non-governmental organisations / civil society:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_11,My Local Authorities:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_12,World Health Organisation:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_13,Prime Minister Boris Johnson:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_14,Mainstream media:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_15,Alternative media:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_16,Celebrities:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_17,Chancellor Rishi Sunak:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_18,Science / Researchers / Universities:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_19,My GP / Doctor:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_20,Someone else  Please specify::Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_21,No one:Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08a_20_OTHER,Someone else  Please specify::Which sources of information about coronavirus do you trust the most? Please select up to three answers
+S03Q08b_01,HM Government:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_02,My friends and family:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_03,NHS:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_04,Police:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_05,Army:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_06,My School / University:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_07,My Church / Religious Community / Religious Leader:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_08,My Employer:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_09,HMRC:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_10,Charities / non-governmental organisations / civil society:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_11,My Local Authorities:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_12,World Health Organisation:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_13,Prime Minister Boris Johnson:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_14,Mainstream media:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_15,Alternative media:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_16,Celebrities:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_17,Chancellor Rishi Sunak:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_19,My GP / Doctor:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_18,Science / Researchers / Universities:Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_20,Someone else  Please specify::Who do you trust the least about coronavirus? Please select up to three
+S03Q08b_20_ELSE,Someone else  Please specify::Who do you trust the least about coronavirus? Please select up to three
+S03Q09_01,"Riots, looting, civil unrest:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all"
+S03Q09_02,"Increase in violence, domestic abuse and antisocial behaviour:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all"
+S03Q09_03,Shops running out of food:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_04,"Utilities (e g , water, electricity) failing:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all"
+S03Q09_05,Internet failing or significantly slowing down:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_06,"Social institutions (e g , police, health service) failing:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all"
+S03Q09_07,Isolation / loneliness:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_08,Losing my job / income:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_09,Losing my savings and investments:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_10,Collapse of the economy / run on the banks / hyperinflation:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_11,Boredom and lack of things to do:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_12,People I know getting sick or dying from the virus:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_13,Getting sick or dying from the virus myself:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_14,Stress or anxiety:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_15,The emotional / social breakdown of my relationships:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_16,Falling victim to stigmatisation due to my ethnicity:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_17,Government abuse of power:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_18,Having to postpone important life events:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_19,Suspension of privacy regulations / personal data protection:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_20,Not knowing when all of this is going to end:What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_21,Something else  Please specify::What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q09_21_OTHER,Something else  Please specify::What are you most concerned about when it comes to the coronavirus disease (Covid-19) crisis? You can pick up to five or skip if you have no concerns at all
+S03Q10_01,“A friend of a friend of a friend”:Which of the following people do you know who has or had coronavirus disease (Covid-19)?
+S03Q10_02,“A friend of a friend”:Which of the following people do you know who has or had coronavirus disease (Covid-19)?
+S03Q10_03,Someone I know personally:Which of the following people do you know who has or had coronavirus disease (Covid-19)?
+S03Q10_04,I have / had it myself:Which of the following people do you know who has or had coronavirus disease (Covid-19)?
+S03Q10_05,I don’t know anyone in my personal or remote circles who has (had) it:Which of the following people do you know who has or had coronavirus disease (Covid-19)?
+S03Q11a,You said that “A friend of a friend of a friend” has or had Covid-19  Were they tested and confirmed with Covid-19?
+S03Q11b,You said that “A friend of a friend” has or had Covid-19  Were they tested and confirmed with Covid-19?
+S03Q11c,You said that someone you know personally has or had Covid-19  Were they tested and confirmed with Covid-19?
+S03Q11d,You said that you have or had Covid-19  Have you been tested and confirmed with Covid-19?
+S03Q12_01,"contract coronavirus:What do you believe? How likely it is for someone of your age, health, fitness and level of activity to…"
+S03Q12_02,"develop serious conditions (if they did contract coronavirus):What do you believe? How likely it is for someone of your age, health, fitness and level of activity to…"
+S03Q12_03,"die (if they did contract coronavirus):What do you believe? How likely it is for someone of your age, health, fitness and level of activity to…"
+S03Q13_WAR,WAR:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_PANIC,STRESS/PANIC:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13__RIOT,RIOT / FIGHTING:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_TEAM,TEAM EFFORT:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_CLEANSE,CLEANSING / REDEMPTION:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_APOCALYPSE,APOCALYPSE:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_FINANCIAL_RUIN,FINANCIAL RUIN:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_BOREDOM,BOREDOM / WAITING:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_RELAXATION,RELAXATION:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_CHAOS,CONFUSION / CHAOS:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_BLITZ,GRIT / DETERMINATION (BLITZ SPIRIT):Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q13_HERD,STUPIDITY / HERD:Which of these best describes your feelings about the coronavirus disease (Covid-19) crisis? You can pick up to three or skip if you do not have an answer
+S03Q14_01,"HM Government:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_02,"Citizens:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_03,"NHS:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_04,"Police:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_05,"Army:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_06,"Schools & Universities:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_07,"Churches / Religious Organisations:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_08,"Employers:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_09,"HMRC:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_10,"Charities / non-governmental organisations / civil society:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_11,"Local Authorities:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_12,"World Health Organisation:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_13,"Prime Minister Boris Johnson:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_14,"Chancellor Rishi Sunak:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q14_15,"Me:When it comes to the fight against coronavirus, which actors are the most important? You can pick one, two or three answers from the list below"
+S03Q15,Where do you think the UK is in its fight against coronavirus?
+S03Q16_01,"Quality of government’s measures to tackle effect of Covid-19:At this current time, please assess the following:"
+S03Q16_02,"Quality of government’s communication about Covid-19?:At this current time, please assess the following:"
+S03Q17,Which country from the list below would you mark as a champion in fighting coronavirus?
+S03Q18,"Once this crisis is over, what in our lives and society will be different compared to the time before the crisis? Please explain"
+S04Q01,The coronavirus outbreak has inspired
+S04Q02_01,"Washing hands for at least 20 seconds:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_02,"Using hand sanitisers:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_03,"Using face masks:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_04,"Avoiding touching my nose, eyes or mouth:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_05,"Social distancing:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_06,"Staying in total isolation or quarantine:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_07,"Avoiding public places, public transport, or social gatherings:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_08,"Working from home:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_09,"Wearing gloves:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_10,"Sneezing / coughing in my shoulder/elbow/tissue:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_11,"Volunteering / helping someone in need:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_12,"Following the news on Covid-19:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_13,"Following authorities’ guidelines (NHS, WHO, etc ) on preventing Covid-19:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_14,"Reminding / warning others to behave reasonably:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_15,"Acting resourcefully:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_16,"Doing my own research on Covid-19:In the last week, how often have you engaged in the following behaviours?"
+S04Q02_17,"Exercising indoors:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_01,"Buying way more products than usual:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_02,"Going to see my friends and family some of whom are older than 60:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_03,"Attending large groups or gatherings of 10 or more people:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_04,"Using public transport:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_05,"Going to restaurants, pubs and / or clubs:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_06,"Keeping physical contact with someone having flu-like symptoms:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_07,"Thinking that the measures of the government against covid-19 make no sense:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_08,"Having a conflict / argument with someone over covid-19 situation:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_09,"Feeling sad, angry, upset and / or anxious:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_10,"Exercising outdoors:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_11,"Acting aggressively or being quarrelsome / irritable:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_12,"Distancing myself from people of certain ethnicity believing they are a risk:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_13,"Cancelling subscriptions, postponing payments:In the last week, how often have you engaged in the following behaviours?"
+S04Q03_14,"Feeling resentful over forced measures by the government:In the last week, how often have you engaged in the following behaviours?"
+S04Q04_01,"Stealing / Looting:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_02,"Sharing food and water with others in need:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_03,"Taking part in mass protests outside:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_04,"Helping the government to rectify the crisis:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_05,"Defending myself, my family and property by any means necessary:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_06,"Leaving the country / emigrating:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_07,"Moving out of the city:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_08,"Self-organising in local communities to try solve some of the problems:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_09,"Stopping paying utilities, rent, etc :Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q04_10,"Stopping paying taxes:Imagine that due to a coronavirus outbreak, shops run out of food and civil unrest arises  How likely are you to engage in any of the following behaviours?"
+S04Q05_01,Enforced staying at home:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_02,"Closing pubs, clubs and restaurants:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply"
+S04Q05_03,Closing shops:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_04,Imposing curfews:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_05,The army taking over (Martial Law):Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_06,Advice to wash hands for 20 seconds:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_07,Advice not to touch face:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_08,Monitoring of personal data:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_09,Removing “fake news” from the Internet:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_10,Detaining / quarantining people who don’t comply / hurt the cause:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_11,Imposing fines for breaking government guidelines:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S04Q05_12,No government interventions are acceptable:Which of the following current or potential government interventions to tackle coronavirus do you find acceptable? Please select all that apply
+S05Q01_01,"Peace: Having equality, harmony, eco-friendliness and social justice, and being wise:What are the values which best represent you? You can pick up to three answers"
+S05Q01_02,"Kindness: Being honest, loyal, helpful and forgiving:What are the values which best represent you? You can pick up to three answers"
+S05Q01_03,Duty: Honouring elders and being polite and self-disciplined:What are the values which best represent you? You can pick up to three answers
+S05Q01_04,"Tradition: Respecting tradition, being humble, and being devout and moderate:What are the values which best represent you? You can pick up to three answers"
+S05Q01_05,"Order: Having a society with order, cleanliness, solidarity and security:What are the values which best represent you? You can pick up to three answers"
+S05Q01_06,"Power: Being wealthy, authoritative, powerful and respected:What are the values which best represent you? You can pick up to three answers"
+S05Q01_07,"Success: Being smart, capable, ambitious and influential:What are the values which best represent you? You can pick up to three answers"
+S05Q01_08,"Fun: Having pleasure, enjoying life, and being self-indulgent:What are the values which best represent you? You can pick up to three answers"
+S05Q01_09,"Stimulation: Having a life which is varied, daring and exciting:What are the values which best represent you? You can pick up to three answers"
+S05Q01_10,Independence: Being free to choose my own goals and pursue my own interests:What are the values which best represent you? You can pick up to three answers
+S05Q01b_Harm,"Protecting and cherishing other people being caring and not doing harm to others:What’s important to you? Rank these from 1, most important, to 5, least important"
+S05Q01b_Fariness,"Seeing that things are done justly and fairly being equitable and not cheating:What’s important to you? Rank these from 1, most important, to 5, least important"
+S05Q01b_In_Group,"Standing with your group, family or country being loyal and not betraying people:What’s important to you? Rank these from 1, most important, to 5, least important"
+S05Q01b_Authority,"Honoring tradition and respecting authority being strong and not being subversive:What’s important to you? Rank these from 1, most important, to 5, least important"
+S05Q01b_Purity,"Not doing disgusting or unnatural things being pure and not being degrading:What’s important to you? Rank these from 1, most important, to 5, least important"
+O1,O1
+C1,C1
+E1,E1
+A1,A1
+N1,N1
+O2,O2
+C2,C2
+E2,E2
+A2,A2
+N2,N2
+O3,O3
+C3,C3
+E3,E3
+A3,A3
+N3,N3
+O4,O4
+C4,C4
+E4,E4
+A4,A4
+N4,N4
+S5Q04_01,A stable and predictable life with basic needs met:What are your hopes for life in the future? You can pick your top one or two hopes
+S5Q04_02,Feeling safe and secure:What are your hopes for life in the future? You can pick your top one or two hopes
+S5Q04_03,Being free to be myself:What are your hopes for life in the future? You can pick your top one or two hopes
+S5Q04_04,Belonging and feeling loved:What are your hopes for life in the future? You can pick your top one or two hopes
+S5Q04_05,Achieving status and power:What are your hopes for life in the future? You can pick your top one or two hopes
+S5Q04_06,Nothing life is hopeless:What are your hopes for life in the future? You can pick your top one or two hopes
+S5Q05_01,"The end of society as we know it:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S5Q05_02,"Being injured or attacked:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S5Q05_03,"Feeling trapped and helpless:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S5Q05_04,"Being alone or losing one’s community:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S5Q05_05,"Feeling ashamed or worthless:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S5Q05_06,"Not having enough to survive or live with dignity:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S5Q05_07,"Dying:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S5Q05_08,"They are not afraid of anything:Thinking about other people you know, what are they most scared of today? You can pick one or two top fears"
+S06Q01_01,Internet (News portals):Which of the following media would you miss the most if it were taken away? Please select up to two
+S06Q01_02,Social media:Which of the following media would you miss the most if it were taken away? Please select up to two
+S06Q01_03,TV:Which of the following media would you miss the most if it were taken away? Please select up to two
+S06Q01_04,Radio:Which of the following media would you miss the most if it were taken away? Please select up to two
+S06Q01_05,Newspapers (print only):Which of the following media would you miss the most if it were taken away? Please select up to two
+S06Q01_06,Podcasts:Which of the following media would you miss the most if it were taken away? Please select up to two
+S06Q01_07,"Video on demand (i e  Netflix, Amazon Prime, etc ):Which of the following media would you miss the most if it were taken away? Please select up to two"
+S06Q01_08,None of the above listed:Which of the following media would you miss the most if it were taken away? Please select up to two
+S06Q02_01,Facebook:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_02,Twitter:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_03,Instagram:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_04,YouTube:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_05,Pinterest:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_06,LinkedIn:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_07,Snapchat:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_08,Tumblr:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_09,Quora:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_10,TikTok:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_11,Reddit:Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_12,Some other social media platforms  Please specify::Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q02_12_OTHER,Some other social media platforms  Please specify::Which of the following social media platforms would you miss the most if it were taken away? Please select up to two
+S06Q03_01,BBC:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_02,BBC Children’s programmes:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_03,BBC News:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_04,ITV:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_05,ITV Children’s programmes:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_06,Channel 4:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_07,Channel 5:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_08,Sky:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_09,Sky News:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_10,Sky Movies:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_11,Sky Sports:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_12,National Geographic Channel:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_13,Discovery Channel:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_14,BT TV:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_15,Disney Channel:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_16,Nickelodeon:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_17,MTV:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_18,CNN:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_19,Comedy Channel:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_20,Dave:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_21,E!:Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_22,Some other TV channel  Please specify::Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q03_22_OTHER,Some other TV channel  Please specify::Which of the following TV channels would you miss the most if it was taken away? Please select up to two
+S06Q04_01,Metro:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_02,The Guardian:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_03,The Times:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_04,The Sunday Times:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_05,The Daily Mail:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_06,The Independent:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_07,The Sun:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_08,The Sunday Telegraph:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_09,The Financial Times:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_10,The Mail on Sunday:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_11,The Daily Mirror:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_12,The Daily Telegraph:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_13,The Sun on Sunday:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_14,The Sunday Mirror:Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_15,Some other newspaper  Please specify::Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q04_15_OTHER,Some other newspaper  Please specify::Which of the following Newspapers would you miss the most if they were gone? Please select up to two  
+S06Q06_01,"Fun, outgoing, indulgent I like vibrant, diverse art like chat shows and romantic comedies:Please rank the styles of communication from your most to your least favourite on the scale below  Please note1 stands for the most favourite, and 3 for the least f"
+S06Q06_02,"Rebellious, different I like bold, intense art like horror films and heavy metal:Please rank the styles of communication from your most to your least favourite on the scale below  Please note1 stands for the most favourite, and 3 for the least favourite s"
+S06Q06_03,"Thoughtful, intellectual, rational I like reflective, calming art like indie films and classical music:Please rank the styles of communication from your most to your least favourite on the scale below  Please note1 stands for the most favourite, and 3 for"
+S07Q01_01,"Adventure:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_02,"Beauty & Fashion:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_03,"Business:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_04,"Cars / motoring:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_05,"Celebrities & Interviews:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_06,"Computer games:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_07,"Cooking:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_08,"Education:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_09,"Films & Cinema:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_10,"Health:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_11,"History:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_12,"Humanities:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_13,"Lifestyle:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_14,"Literature:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_15,"Music:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_16,"Nature & Environment:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_17,"News & Current affairs:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_18,"Politics:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_19,"Science:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_20,"Social Causes:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_21,"Sports:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_22,"Technology:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_23,"Travelling:Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_24,"Some other  Please specify::Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q01_24_OTHER,"Some other  Please specify::Which of the following topics do you watch, read or listen about for at least a couple of hours each week be it for work, education or pleasure? Please select up to three"
+S07Q02_01,Animal rights:Which of the following causes are you passionate about? Please select up to three
+S07Q02_02,Children’s rights / children’s health:Which of the following causes are you passionate about? Please select up to three
+S07Q02_03,Climate change / global warming:Which of the following causes are you passionate about? Please select up to three
+S07Q02_04,Criminal justice reform:Which of the following causes are you passionate about? Please select up to three
+S07Q02_05,The disabled:Which of the following causes are you passionate about? Please select up to three
+S07Q02_06,Early education:Which of the following causes are you passionate about? Please select up to three
+S07Q02_07,Employment (job creation):Which of the following causes are you passionate about? Please select up to three
+S07Q02_08,Globalisation:Which of the following causes are you passionate about? Please select up to three
+S07Q02_09,Human rights / civil rights / discrimination:Which of the following causes are you passionate about? Please select up to three
+S07Q02_10,Literacy:Which of the following causes are you passionate about? Please select up to three
+S07Q02_11,Medical  / cancer research:Which of the following causes are you passionate about? Please select up to three
+S07Q02_12,Mental health:Which of the following causes are you passionate about? Please select up to three
+S07Q02_13,Nature / wildlife preservation:Which of the following causes are you passionate about? Please select up to three
+S07Q02_14,Poverty and homelessness:Which of the following causes are you passionate about? Please select up to three
+S07Q02_15,Protecting oceans / marine mammals:Which of the following causes are you passionate about? Please select up to three
+S07Q02_16,Protection / promotion of art / cultural heritage:Which of the following causes are you passionate about? Please select up to three
+S07Q02_17,Provision of medical care and medicines:Which of the following causes are you passionate about? Please select up to three
+S07Q02_18,Recycling  / reducing pollution:Which of the following causes are you passionate about? Please select up to three
+S07Q02_19,Sexual orientation-based rights:Which of the following causes are you passionate about? Please select up to three
+S07Q02_20,University education:Which of the following causes are you passionate about? Please select up to three
+S07Q02_21,Women’s rights / women’s health and reproductive issues:Which of the following causes are you passionate about? Please select up to three
+S07Q02_22,Worker’s rights / fair wages:Which of the following causes are you passionate about? Please select up to three
+S07Q02_23,Family values:Which of the following causes are you passionate about? Please select up to three
+S07Q02_24,Something else  Please specify::Which of the following causes are you passionate about? Please select up to three
+S07Q02_24_OTHER,Something else  Please specify::Which of the following causes are you passionate about? Please select up to three
+S07Q03_01,Ford:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_02,Volkswagen:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_03,Vauxhall:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_04,Mercedes:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_05,Nissan:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_06,Mini:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_07,Kia:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_08,BMW:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_09,Audi:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_10,Toyota:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_11,Hyundai:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_12,Fiat:Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_13,Else  Please specify::Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q03_13_OTHER,Else  Please specify::Which car does your household own or lease? If you do not own a car pick the one you would like to have one day  Please pick up two car brands or skip if none applies to you
+S07Q04_01,"Primark:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_02,"H&M:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_03,"TK Maxx:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_04,"Matalan:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_05,"Topshop:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_06,"River Island:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_07,"Marks and Spencer:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_08,"Zara:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_09,"Next:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_10,"Reiss:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_11,"COS:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_12,"Massimo Dutti:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_13,"The Kooples:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_14,"Something else  Please specify::From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_15,"I do not have a favourite outlet:From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q04_14_OTHER,"Something else  Please specify::From the outlets below, where would you do most of your clothing shopping? Please pick up two stores"
+S07Q05_01,Samsung:Which are your favourite technology brands? Please select up to four
+S07Q05_02,Apple:Which are your favourite technology brands? Please select up to four
+S07Q05_03,Huawei:Which are your favourite technology brands? Please select up to four
+S07Q05_04,HP:Which are your favourite technology brands? Please select up to four
+S07Q05_05,Dell:Which are your favourite technology brands? Please select up to four
+S07Q05_06,Sony:Which are your favourite technology brands? Please select up to four
+S07Q05_07,Nokia:Which are your favourite technology brands? Please select up to four
+S07Q05_08,Lenovo:Which are your favourite technology brands? Please select up to four
+S07Q05_09,Nvidia:Which are your favourite technology brands? Please select up to four
+S07Q05_10,Intel:Which are your favourite technology brands? Please select up to four
+S07Q05_11,AMD:Which are your favourite technology brands? Please select up to four
+S07Q05_12,Toshiba:Which are your favourite technology brands? Please select up to four
+S07Q05_13,Nintendo:Which are your favourite technology brands? Please select up to four
+S07Q05_14,Canon:Which are your favourite technology brands? Please select up to four
+S07Q05_15,Nikon:Which are your favourite technology brands? Please select up to four
+S07Q05_16,Something else  Please specify::Which are your favourite technology brands? Please select up to four
+S07Q05_17,I do not have a favourite tech brand:Which are your favourite technology brands? Please select up to four
+S07Q05_16_Else,Something else  Please specify::Which are your favourite technology brands? Please select up to four
+S07Q06_01,Family life and harmony:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_02,Career and success:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_03,Education and learning:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_04,Sport and fitness:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_05,Health and wellbeing:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_06,Travel and exploration:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_07,Creativity and art:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_08,Glamour and fashion:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_09,Serving community and volunteering:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_10,Excitement and risk:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_11,Something else  Please specify::Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_12,I do not know / Prefer not to say:Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S07Q06_11_Other,Something else  Please specify::Which of the following would best describe your lifestyle or the lifestyle you aspire to? You can pick up to two statements
+S08Q01_01,"Someone supporting free education, free healthcare, higher taxes on the rich, more resources to local authorities, better welfare/benefits system|Someone supporting lowering business tax rates and business regulations, protection of traditional values, lo"
+S08Q01_02,"Someone supporting alternative lifestyles, new cultures and breaking taboos supporting causes like feminism, immigration and social justice|Someone supporting tradition and the culture and heritage of my people supporting causes like religion, traditional"
+S08Q02,Has anything in your employment status or the way you perform your professional duties changed since the Covid-19 pandemic?
+S08Q03_01,Started working from home:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_02,Had to relocate to another office:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_03,Had to relocate my place of living:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_04,My working hours have been reduced:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_05,Forced to take unpaid leave:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_06,I got a salary cut:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_07,I got a salary increase:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_08,Made redundant / fired:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_09,"I had to start wearing protection (face mask, gloves, etc ):How has your employment status changed following the Covid-19 pandemic? Select all that apply"
+S08Q03_10,I’ve been furloughed:How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_11,Something else  Please specify::How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q03_11_OTHER,Something else  Please specify::How has your employment status changed following the Covid-19 pandemic? Select all that apply
+S08Q04,Do you expect your professional status to change following the Covid-19 pandemic?
+S08Q05,What is your professional field of study / work?
+S08Q06,Which of the following descriptions come closest to how you feel about your household’s present income?
+S08Q07,To help us map the responses across the UK please share the first half of your postcode  Depending on your postcode this can be a combination of 2 to 4 letters and numbers  Please use capital letters only
+time_complete,Time
+O,Openess
+C,Conscientiousness
+E,Extraversion
+A,Agreableness
+N,Beuroticism
+WHGT,Raked Weight
