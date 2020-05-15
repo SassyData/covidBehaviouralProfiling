@@ -1,6 +1,36 @@
+
+##### File contents:
+0 Data folder                   2 .csv data files (responses & variable descriptions)
+1 Covid Behaviour, notebook     Analysis and functions
+2 ReadMe, md                    Full project writeup, structure, libraries, etc
+
+##### Readme contents:
+1. Exploring behavioural response to Covid-19
+  a. Needs and affects - topic modelling
+  b. Profiling survey respondents
+  c. Additional survey questions
+2. Further exploration 
+  a. Covid-19 intricacies
+  b. Project structure
+  c. How to talk to people
+ 
+##### Libraries 
+numpy 
+pandas 
+atplotlib.pyplot 
+gensim 
+nltk
+wordcloud
+sklearn
+bokeh
+pyLDAvis.gensim
+seaborn
+kmodes.kmodes
+scipy.stats
+
 # 1. Exploring the behavioural response to Covid-19
 
-This workbook works with survey data of 478 features, in order to explore trends from people from diverse demographics, in their a) response to Covid-19 and their b) general preferences.
+This workbook works with survey data of 478 features, in order to explore trends from people from diverse demographics, in their response to Covid-19 and also their general preferences.
 
 ### a. Assessing the needs and effects of Covid-19 (from survey free text field, using topic modelling techniques)
 This investigation uses topic modelling to extract meaning from two free text fields within the data. A range of topic models were explored, and ultimately LDA was applied.
@@ -63,5 +93,5 @@ With more time, I would restructure the project into a number of notebooks:
 * Need and effect topic modelling 
 * Profiling
 
-#### c. Another use
+#### c. Another use - how to talk to people
 This data could provide deep insight into people in terms of wants, desires and preferences. There is an opportunity from the skew of the questions towards understanding how people could best be communicated with. Taking into account literal signposts such as where they get their news from (which paper, which channel or media) and which brands they have awareness of, but also in terms of more subtle and potentially more powerful indicators, such as what types of communication resonate, who they trust to receive information from, and whether they are “move towards” or “move away from” [types](https://coachcampus.com/coach-portfolios/power-tools/elle-wilks-moving-away-from-vs-moving-towards/). 
