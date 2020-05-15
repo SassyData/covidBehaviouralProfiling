@@ -85,15 +85,15 @@ Maybe even lighter topics such as:
 * Dogs or cats
 * Liking of Piers Morgan
 
-### 2. Further exploration
-#### a. Covid-19 intricacies
+# 2. Further exploration
+### a. Covid-19 intricacies
 One disadvantage of the strong signal from the generational differences is that it may have suppressed any more subtle similarities we might have found between Covid-19 responses, such as ‘worriers’ versus ‘optimists’. This would be my first question to explore given more time. By removing some of these strongly divergent features, which helped to define groups A and B above, or by weighting in favour of the the Covid-19 response features, next steps would seek to uncover these more nuanced relationships. Telling us something new about how people are coping, how to communicate with them, and how to help them.
 
-#### b. Project structure
+### b. Project structure
 With more time, I would restructure the project into a number of notebooks: 
 * Functions (specific to the project) 
 * Need and effect topic modelling 
 * Profiling
 
-#### c. Another use - how to talk to people
+### c. Another use - how to talk to people
 This data could provide deep insight into people in terms of wants, desires and preferences. There is an opportunity from the skew of the questions towards understanding how people could best be communicated with. Taking into account literal signposts such as where they get their news from (which paper, which channel or media) and which brands they have awareness of, but also in terms of more subtle and potentially more powerful indicators, such as what types of communication resonate, who they trust to receive information from, and whether they are “move towards” or “move away from” [types](https://coachcampus.com/coach-portfolios/power-tools/elle-wilks-moving-away-from-vs-moving-towards/). 
