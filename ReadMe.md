@@ -1,8 +1,8 @@
 
 ##### File contents:
-0 Data folder                   2 .csv data files (responses & variable descriptions)
-1 Covid Behaviour, notebook     Analysis and functions
-2 ReadMe, md                    Full project writeup, structure, libraries, etc
+0. Data folder                   2 .csv data files (responses & variable descriptions)
+1. Covid Behaviour, notebook     Analysis and functions
+2. ReadMe, md                    Full project writeup, structure, libraries, etc
 
 ##### Readme contents:
 1. Exploring behavioural response to Covid-19
