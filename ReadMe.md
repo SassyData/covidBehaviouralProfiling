@@ -28,6 +28,8 @@ seaborn
 kmodes.kmodes
 scipy.stats
 
+
+
 # 1. Exploring the behavioural response to Covid-19
 
 This workbook works with survey data of 478 features, in order to explore trends from people from diverse demographics, in their response to Covid-19 and also their general preferences.
