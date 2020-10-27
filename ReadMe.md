@@ -7,6 +7,7 @@
 https://medium.com/@tabssj/this-will-make-you-rethink-the-boomer-millennial-divide-when-it-comes-to-covid-19-ef85051e6a77
 
 ##### Readme contents:
+K-Modes clustering.
 1. Exploring behavioural response to Covid-19
   a. Needs and affects - topic modelling
   b. Profiling survey respondents
